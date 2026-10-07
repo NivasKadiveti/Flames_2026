@@ -1,7 +1,7 @@
 # Flames_2026
 Welcome to GitHub
 
-Team Leader : Mohit varma Dandu
+Team Leader :  Nivas Kadiveti
 
 Team members : 
 1. Nivas Kadiveti
